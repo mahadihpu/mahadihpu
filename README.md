@@ -23,6 +23,6 @@
   <img src="https://firebase.google.com/images/brand-guidelines/logo-standard.png" alt="FireBase" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadihpu&theme=tokyonight)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahadihpu&show_icons=true&theme=tokyonight)
