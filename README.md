@@ -17,7 +17,7 @@
 
 ## 🧰 Languages and Tools:
 <p>
-<img src="https://www.seekpng.com/png/detail/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="React" height="40" style="vertical-align:top; margin:4px">
+<img src="https://ensocore.com/media/61/reactjs-logo-sticker%20%281%29.jpg" alt="React" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   <img src="https://firebase.google.com/images/brand-guidelines/logo-standard.png" alt="FireBase" height="40" style="vertical-align:top; margin:4px">
